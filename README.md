@@ -1,4 +1,4 @@
-HoneyTrap: Deceiving Large Language Model Attackers to Honeypot Traps with Collaborative Agents
+CoopGuard : Cooperative Agents Safeguarding LLMs Against Evolving Adversarial Attacks
 ---
 
 **HoneyTrap** is a defense framework designed to mitigate Jailbreak attacks on LLMs through collaborative multi-agent systems. By leveraging a set of specialized agents—including Deferring Agent, Tempting Agent, System Coordinator, and Forensic Agent—HoneyTrap deceives attackers into wasting their resources, while maintaining robust security measures. The framework strategically delays attacker inputs, misguides them with deceptive responses, and monitors their behaviors, ultimately collecting critical evidence for forensic analysis. This innovative approach employs the concept of "Honeypot" making attackers believe they have breached the system, while they are, in fact, being trapped in a time-wasting loop. HoneyTrap aims to provide a scalable, collaborative defense mechanism against evolving jailbreak strategies, ensuring LLMs remain secure and resilient in adversarial environments.
